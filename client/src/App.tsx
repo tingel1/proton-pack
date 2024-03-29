@@ -1,11 +1,10 @@
-import React from 'react';
-import { Test } from './components/test';
+import React from "react";
+import { Test } from "./components/test";
 
 function App() {
   return (
     <div>
       <Test />
-
     </div>
   );
 }
