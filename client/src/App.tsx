@@ -1,9 +1,11 @@
 import React from 'react';
+import { Test } from './components/test';
 
 function App() {
   return (
     <div>
-      Hello
+      <Test />
+
     </div>
   );
 }
