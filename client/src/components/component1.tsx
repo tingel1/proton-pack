@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-export function Test() {
+export function Component1() {
   const [output, setOutput] = useState("");
 
   return (
@@ -26,4 +26,4 @@ export function Test() {
   );
 }
 
-export default Test;
+export default Component1;
